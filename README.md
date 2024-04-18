@@ -1,3 +1,3 @@
 # cardio-vascular-diseases
 
-this project is all about 
+this project is all about prediction with ml
